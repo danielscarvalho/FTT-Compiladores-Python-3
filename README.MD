@@ -13,6 +13,6 @@ Referências:
 - https://www.w3schools.com/python/default.asp
 
 ![Python no Windows adicionar no PATH](https://docs.blender.org/manual/pt/dev/_images/about_contribute_install_windows_installer.png)
-
+<hr>
 ![Python meme Toy Story](https://i.pinimg.com/564x/86/a4/8e/86a48e6257c49286e8fe1b689e2aead6.jpg)
 
